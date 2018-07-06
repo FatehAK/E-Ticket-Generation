@@ -1,2 +1,2 @@
 # Tripster
-This software aims to ease the generation of tickets for public transport to enable a better user experience.
+Tripster aims to ease the generation of tickets for public transport to enable a better user experience. It has a easy to use interface created using Visual Basic forms. It has features for booking, status enquiry and cancellation. As soon as the payment is made a pnr no. is generated. The pnr no. generated is unique to each customer. The application made use of databases via ODBC connection to store all user information.
